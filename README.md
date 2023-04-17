@@ -1,0 +1,2 @@
+# genral
+for general purposes
